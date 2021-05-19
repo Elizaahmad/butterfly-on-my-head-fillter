@@ -1,5 +1,5 @@
 function preload(){
-ClownFilter=loadImage('https://i.postimg.cc/dtS4fF9g/butterfly-png-6712.png');
+ClownFilter=loadImage('https://i.postimg.cc/6QTXGkqJ/butterfly-png-6717.png');
 } 
 
 function setup(){
